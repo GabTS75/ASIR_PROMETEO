@@ -1,0 +1,95 @@
+⭐ RESUMEN GENERAL DEL PROYECTO INTERMODULAR – ASIR 1.º
+El proyecto intermodular de ASIR es un proyecto único, grande, que integra todas las asignaturas de primero en una empresa ficticia que tú elijas.
+Sirve para:
+•	Aprender a unir todos los módulos como en una empresa real.
+•	Construir tu portfolio.
+•	Adelantar trabajo para el proyecto oficial de 2.º.
+•	Subir hasta +3 puntos a tu nota final.
+________________________________________
+🎯 OBJETIVO DEL PROYECTO
+Diseñar la infraestructura TI completa de una empresa moderna:
+•	Red
+•	Servidores
+•	Hardware
+•	Web corporativa
+•	Servicios cloud
+•	Documentación
+•	Perfil profesional
+Todo unido en un único documento final.
+________________________________________
+📌 QUÉ MÓDULOS SE INTEGRAN (TODOS los de 1.º ASIR)
+1️⃣ Redes (25%)
+•	Topología física y lógica
+•	VLANs
+•	Subredes
+•	Packet Tracer
+•	DHCP, DNS, NAT
+•	Diagramas, tablas y comandos
+2️⃣ ISO – Servidores (25%)
+•	Windows Server / Linux Server
+•	Active Directory
+•	DNS, FTP, web, carpetas compartidas
+•	Políticas, usuarios y grupos
+•	Scripts (Bash o PowerShell)
+•	Simulación cliente-servidor
+3️⃣ Cloud (20%)
+•	Instancia cloud (AWS, Azure o GCP)
+•	Hosting de la web
+•	Bucket para backups
+•	Comparativa local vs cloud
+•	Arquitectura híbrida (local + nube)
+4️⃣ Lenguaje de Marcas (10%)
+•	Web corporativa simple (HTML + CSS)
+•	Opcional: XML, DTD, XSD, XSLT
+5️⃣ Hardware (10%)
+•	Inventario de servidores, switches, PCs
+•	Plano físico de CPD
+•	Presupuesto
+•	Justificación del hardware
+•	Procedimientos de montaje y mantenimiento
+6️⃣ ITP – Empleabilidad (10%)
+•	Perfil profesional
+•	CV técnico
+•	Carta de presentación
+•	Reflexión
+•	Autoevaluación
+________________________________________
+💯 CÓMO SE EVALÚA
+El proyecto forma parte de la evaluación continua.
+Puedes sumar:
+•	+2 puntos → proyecto intermodular
+•	+1 punto → actividades parciales
+Total: +3 puntos
+Pero solo si sacas ≥ 5 en el examen final.
+No hay defensa este año.
+________________________________________
+👥 TRABAJO EN GRUPO
+Puedes hacerlo:
+•	Individual
+•	En pareja
+•	En trío
+Si son 3, debe parecer trabajo de 3.
+________________________________________
+🧑‍🏫 TUTOR DEL PROYECTO
+•	Miguel Ángel será vuestro tutor.
+•	Puedes pedirle tutorías para resolver dudas técnicas.
+•	Cada profesor evalúa solo su parte del proyecto.
+________________________________________
+📅 ORGANIZACIÓN Y ENTREGA
+•	Habrá una única entrega final.
+•	Se entrega 15 días a 1 mes antes del examen.
+•	Empezad por lo más fácil:
+1.	Lenguaje de marcas
+2.	Hardware
+3.	Redes
+4.	ISO
+5.	Cloud
+6.	ITP
+________________________________________
+📌 IMPORTANTE
+•	El proyecto es voluntario, pero MUY recomendable.
+•	No es un proyecto por módulo, sino un único proyecto que integra todo.
+•	Os da ventaja enorme para el proyecto oficial de 2.º, que sí tiene tribunal.
+________________________________________
+🔥 RESUMEN DE UNA LÍNEA
+El proyecto es la construcción completa de la infraestructura TI de una empresa realista, integrando todos los módulos de ASIR 1.º en un único documento que te puede sumar hasta 3 puntos y te prepara para el proyecto de 2.º.
