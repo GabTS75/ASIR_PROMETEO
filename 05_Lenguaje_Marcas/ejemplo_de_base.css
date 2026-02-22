@@ -1,0 +1,48 @@
+@import url('<https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap>');
+/* Agregar fuente de Google desde un URL */
+
+/* Base de reseteo */
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: "Noto Sans", sans-serif;
+    color: var(--rtc-color-100); /* blanco del root */
+}
+
+html {
+    font-size: 16px;
+    overflow-x: hidden;
+}
+
+body {
+    overflow-x: hidden;
+    position: relative;
+}
+
+:root {
+    --rtc-color-100: white;
+    --rtc-color-200: #F2F6FA;
+    --rtc-color-300: #FED84C;
+    --rtc-color-400: #0E194A;
+    --rtc-color-500: #2E363E;
+    --rtc-color-600: #020612;
+}
+
+.gradient {
+    min-height: 100svh;
+    background: linear-gradient(90deg, rgba(2, 6, 18, 1) 0%, rgba(14, 25, 74, 1) 100%);
+    position: relative;
+}
+
+.gradient header {
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
