@@ -93,7 +93,6 @@ sudo mount -t auto -v /dev/sdb1 ./nuevodisco
 ```
 
 > Acabamos de "montar" el disco nuevo en un directorio del sistema utilizando el comando **"mount"**, el parámetro **(-t auto)** indica a "mount" que detecte automáticamente el sistema de archivo usado **(ext4)** y el parámetro **(-v)** activa el modo verbose que muestra la información más detallada.
-
 > **Resumen:** el comando monta la partición **/dev/sbd1** en el directorio **./nuevodisco**, detectando automáticamente el sistema de archivos y mostrando detalles del proceso.
 
 - Ingresamos en el directorio utilizando el comando **"cd"**.
