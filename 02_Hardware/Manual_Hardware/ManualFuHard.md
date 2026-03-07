@@ -16,7 +16,7 @@ by **Iker Iturbe**
 
 **ASIR** | Curso 2025-2026 | **FP PROMETEO**
 
-![image.png](image%201.png)
+![prometeo.png](prometeo.png)
 
 ---
 
