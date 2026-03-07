@@ -28,6 +28,8 @@ Al **profesor Iker,** por su elevado grado de implicación con todo el grupo par
 
 # Contenido
 
+Enlaces externos a Notion.
+
 [1. - Manual de configuración y reconocimiento de equipos](https://legendary-split-8cd.notion.site/1-Manual-de-configuraci-n-y-reconocimiento-de-equipos-2d2e1f2471ef814ab34cd270a72a3a60)
 
 [2. - Manual de Montaje y mantenimiento de equipos](https://legendary-split-8cd.notion.site/2-Manual-de-Montaje-y-mantenimiento-de-equipos-2d2e1f2471ef8193a657f2f7c8f05129)
@@ -38,8 +40,8 @@ Al **profesor Iker,** por su elevado grado de implicación con todo el grupo par
 
 ### Nota final
 
-Hasta aquí mi aporte en el Proyecto correspondiente a Fundamentos de Hardware, no obstante cabe señalar que iré aumentando progresivamente más temas de interés.
+Es una guía que iré implementando progresivamente con más temas de interés.
 
-Es mi deseo que este proyecto (actividad entregable) sea de vuestro agrado y principalmente sirva de apoyo a quienes les apasione y tengan mucha curiosidad (como Yo) sobre la ***“anatomía de los ordenadores”***.
+Es mi deseo que este proyecto (1er. Proyecto), sea de vuestro agrado y principalmente sirva de apoyo a quienes les apasione y tengan mucha curiosidad (como Yo) sobre la ***“anatomía de los ordenadores”***.
 
 ---
