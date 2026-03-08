@@ -1,4 +1,4 @@
-# Fundamentos de Hardware (Guía práctica) | Gabriel Ternero
+# 🧩 Fundamentos de Hardware (Guía práctica) | Gabriel Ternero
 
 ---
 
