@@ -1,8 +1,8 @@
 # 📡 Planificación y Gestión de Redes
-![prometeo.png](prometeo.png)
+![prometeo.png](./img/prometeo.png)
 ---
 
-![image.jpg](image.jpg)
+![image.jpg](./img/image.jpg)
 
 ---
 

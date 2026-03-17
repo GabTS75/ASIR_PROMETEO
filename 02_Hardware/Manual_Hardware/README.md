@@ -4,7 +4,7 @@
 
 # **MANUAL DE FUNDAMENTOS HARDWARE**
 
-![image.png](image.png)
+![image.png](./img/image.png)
 
 ---
 
@@ -16,7 +16,7 @@ by **Iker Iturbe**
 
 **ASIR** | Curso 2025-2026 | **FP PROMETEO**
 
-![prometeo.png](prometeo.png)
+![prometeo.png](./img/prometeo.png)
 
 ---
 

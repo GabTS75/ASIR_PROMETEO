@@ -2,11 +2,11 @@
 
 ---
 
-![image.png](image.png)
+![image.png](./img/image.png)
 
 ---
 
-![prometeo.png](prometeo.png)
+![prometeo.png](./img/prometeo.png)
 
 Enlaces externos a Notion
 
