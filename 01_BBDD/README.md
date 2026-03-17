@@ -1,8 +1,8 @@
 # 🗄️ SQL (Guía, Sintaxis y Prácticas) | Gabriel Ternero
-![prometeo.png](prometeo.png)
+![prometeo.png](./img/prometeo.png)
 ---
 
-![image.png](image.png)
+![image.png](./img/image.png)
 
 ---
 
