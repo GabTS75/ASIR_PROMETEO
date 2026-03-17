@@ -32,6 +32,9 @@
 
 [Práctica 6: ASIR_Tienda2 (JOINs, INNER, LEFT y RIGTH) | Gabriel Ternero](https://legendary-split-8cd.notion.site/Pr-ctica-6-ASIR_Tienda2-JOINs-INNER-LEFT-y-RIGTH-Gabriel-Ternero-315e1f2471ef8019a089ccb3c6311632)
 
+
+[Práctica 7: ASIR_Tienda2_1 (FULL JOIN, subconsultas avanzadas) | Gabriel Ternero](https://legendary-split-8cd.notion.site/Pr-ctica-7-ASIR_Tienda2_1-FULL-JOIN-subconsultas-avanzadas-Gabriel-Ternero-324e1f2471ef8075b544d910f27fbdf6)
+
 ---
 
 Gracias! 🫵😎✨
