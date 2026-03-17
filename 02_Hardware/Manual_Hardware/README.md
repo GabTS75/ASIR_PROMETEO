@@ -16,7 +16,6 @@ by **Iker Iturbe**
 
 **ASIR** | Curso 2025-2026 | **FP PROMETEO**
 
-![prometeo.png](./img/prometeo.png)
 
 ---
 
@@ -25,6 +24,7 @@ by **Iker Iturbe**
 Al **profesor Iker,** por su elevado grado de implicación con todo el grupo para que lográramos aprender sin mayores complicaciones los “fundamentos del hardware”; particularmente he desempolvado muchos recuerdos y además he aprendido nuevas herramientas fundamentales, pero, sobre todo, me he demostrado que a pesar de los años inactivo… ***¡sigo vigente!*  🫵😎✨**
 
 ---
+![prometeo.png](./img/prometeo.png)
 
 # Contenido
 
@@ -45,3 +45,4 @@ Es una guía que iré implementando progresivamente con más temas de interés.
 Es mi deseo que este proyecto (1er. Proyecto), sea de vuestro agrado y principalmente sirva de apoyo a quienes les apasione y tengan mucha curiosidad (como Yo) sobre la ***“anatomía de los ordenadores”***.
 
 ---
+✨💪

@@ -1,10 +1,11 @@
 # 🗄️ SQL (Guía, Sintaxis y Prácticas) | Gabriel Ternero
-![prometeo.png](./img/prometeo.png)
+
 ---
 
 ![image.png](./img/image.png)
 
 ---
+![prometeo.png](./img/prometeo.png)
 
 *Enlaces externos a Notion*
 

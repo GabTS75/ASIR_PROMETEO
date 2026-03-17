@@ -1,10 +1,11 @@
 # 📡 Planificación y Gestión de Redes
-![prometeo.png](./img/prometeo.png)
+
 ---
 
 ![image.jpg](./img/image.jpg)
 
 ---
+![prometeo.png](./img/prometeo.png)
 
 *Enlaces externos a Notion*
 
