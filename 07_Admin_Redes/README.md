@@ -15,4 +15,6 @@
 
 [📝 Ejercicio de Subnetting - 05.03.2026 | Gabriel Ternero](https://legendary-split-8cd.notion.site/Ejercicio-de-Subnetting-05-03-2026-Gabriel-Ternero-31ce1f2471ef80dfa8e9f8414290d507)
 
+[📝 Ejercicio de redes DHCP y NAT - 19.03.2026 | Gabriel Ternero](https://legendary-split-8cd.notion.site/Ejercicio-de-redes-DHCP-y-NAT-19-03-26-Gabriel-Ternero-329e1f2471ef809f8990f00e5481c8e1)
+
 ---
