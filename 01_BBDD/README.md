@@ -7,7 +7,7 @@
 ---
 ![prometeo.png](./img/prometeo.png)
 
-*Enlaces externos a Notion*
+## Enlaces externos a Notion
 
 [📝 GUÍA y SINTAXIS en SQL | Gabriel Ternero](https://legendary-split-8cd.notion.site/GU-A-y-SINTAXIS-en-SQL-Gabriel-Ternero-330e1f2471ef8008aa73ebbabb511485)
 
