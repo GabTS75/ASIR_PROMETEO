@@ -1,3 +1,0 @@
-# CV Gabriel Ternero
-
-- [`CV-Gabriel-Ternero.pdf`](/cv/CV-Gabriel-Ternero.pdf) — formato fórmula X-Y-Z de Google + ATS
